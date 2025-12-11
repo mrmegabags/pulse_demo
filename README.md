@@ -192,6 +192,6 @@ Contributions are welcome. Ideas include:
 
 ## License
 
-Specify your preferred license (MIT recommended).
+MIT.
 
 ```
