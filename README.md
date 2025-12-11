@@ -192,6 +192,6 @@ Contributions are welcome. Ideas include:
 
 ## License
 
-MIT.
+MIT
 
 ```
