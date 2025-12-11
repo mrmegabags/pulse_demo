@@ -1,5 +1,3 @@
----
-
 ````markdown
 # Pulse: A Tiny Incremental Computation Engine for Elixir
 
